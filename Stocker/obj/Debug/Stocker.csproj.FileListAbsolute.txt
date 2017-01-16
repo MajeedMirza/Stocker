@@ -1,0 +1,9 @@
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\bin\Debug\Stocker.exe.config
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\bin\Debug\Stocker.exe
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\bin\Debug\Stocker.pdb
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\obj\Debug\Stocker.Stocker.resources
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\obj\Debug\Stocker.Properties.Resources.resources
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\obj\Debug\Stocker.csproj.GenerateResource.Cache
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\obj\Debug\Stocker.exe
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\obj\Debug\Stocker.pdb
+C:\Users\Majeed\Documents\Visual Studio 2015\Projects\Stocker\Stocker\obj\Debug\Stocker.csprojResolveAssemblyReference.cache
